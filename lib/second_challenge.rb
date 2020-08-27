@@ -7,7 +7,10 @@ def second_challenge
       :hero_friends => [] #an array of hashes
       }, 
     :capulet => {
-      #your key/value pairs here!
+      :patriarch => {},
+      :matriarch => {},
+      :heroine => {},
+      :heroine_friends => []
       }}
 
   
